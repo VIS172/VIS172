@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Python Based Projects**
 
-- 🌱 I’m currently learning **I am currently embarking on a journey into the realms of Java, unraveling the intricacies of its syntax and embracing the symphony of its logic.**
+- 🌱 **I am currently embarking on a journey into the realms of Java, unraveling the intricacies of its syntax and embracing the symphony of its logic.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vis172](https://github.com/vis172)
 

@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vis172" alt="vis172" /></a> </p>
 
-- 🔭 I’m currently working on **Python Based Projects**
-
-- 🌱 **I am currently embarking on a journey into the realms of Java, unraveling the intricacies of its syntax and embracing the symphony of its logic.**
+- 🌱 **Iam Actively engaged in coursework focused on advanced AI algorithms, machine learning, and Data Analysis. Having spent my childhood in different parts of India as well as abroad has helped me immensely in communicating and demonstrating leadership and collaboration skills in group projects and academic discussions. My multifaceted understanding of AI, combined with my collaborative spirit, positions me well for impactful contributions in the exciting intersections of technology and problem-solving.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vis172](https://github.com/vis172)
 

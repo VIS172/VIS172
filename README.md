@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vis172" alt="vis172" /></a> </p>
 
-- 🌱 **Iam Actively engaged in coursework focused on advanced AI algorithms, machine learning, and Data Analysis. Having spent my childhood in different parts of India as well as abroad has helped me immensely in communicating and demonstrating leadership and collaboration skills in group projects and academic discussions. My multifaceted understanding of AI, combined with my collaborative spirit, positions me well for impactful contributions in the exciting intersections of technology and problem-solving.**
+- 🌱 **I am actively engaged in advanced AI algorithms, machine learning, and Data Analysis. I am currently working on Python-based projects, delving into various problem-solving scenarios on platforms like Geeks for Geeks and LeetCode
 
 - 👨‍💻 All of my projects are available at [https://github.com/vis172](https://github.com/vis172)
 
